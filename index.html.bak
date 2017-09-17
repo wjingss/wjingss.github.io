@@ -54,7 +54,7 @@
 			<img src="imgs/index/2.png" class="hand">
 			<img src="imgs/index/7.png">
 			<img src="imgs/index/6.png" class="maybe">
-			<a style="display: block; position: absolute;height: 100px;width: 640px; margin-top:90%;margin-left:18%;" href="view/upload.html">
+			<a style="display: block; position: relative;height: 100px;width: 640px; margin: 13% auto;" href="view/upload.html">
 				<img src="imgs/index/5.png" class="btnBg">
 				<img src="imgs/index/3.png" class="btnIcon">
 				<img src="imgs/index/4.png" class="btnTxt">

@@ -102,7 +102,7 @@
 				<img class="arrow" src="../imgs/share/share_it.png"/>
 				<a href="#" id="follow">  
 				  <!-- <img id="share-text" src="http://dev.vxtong.com/cases/nuannan/imgs/share-text.png"> -->
-				  <img id="share-text" src="../imgs/share/share_text.png" style="margin-top:30%;">
+				  <img id="share-text" src="../imgs/share/share_text.png" style="margin-top:50%;">
 				</a>  
 			</div> 
 		</div>

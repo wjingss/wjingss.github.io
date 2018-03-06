@@ -34,7 +34,7 @@
 /******/
 /******/ 	// objects to store loaded and loading chunks
 /******/ 	var installedChunks = {
-/******/ 		7: 0
+/******/ 		9: 0
 /******/ 	};
 /******/
 /******/ 	// The require function
@@ -91,7 +91,7 @@
 /******/ 		if (__webpack_require__.nc) {
 /******/ 			script.setAttribute("nonce", __webpack_require__.nc);
 /******/ 		}
-/******/ 		script.src = __webpack_require__.p + "" + ({"0":"static/views/item/index","1":"static/score/item/index","2":"static/upload1/item/index","3":"static/views/home/index","4":"static/views/demo/index","5":"static/utils/index","6":"static/index"}[chunkId]||chunkId) + ".js";
+/******/ 		script.src = __webpack_require__.p + "" + ({"0":"static/views/home/index","1":"static/views/upload-other/index","2":"static/views/upload-myself/index","3":"static/views/result/index","4":"static/views/upload-waiting/index","5":"static/views/share/index","6":"static/views/loading/index","7":"static/utils/index","8":"static/index"}[chunkId]||chunkId) + ".js";
 /******/ 		var timeout = setTimeout(onScriptComplete, 120000);
 /******/ 		script.onerror = script.onload = onScriptComplete;
 /******/ 		function onScriptComplete() {
